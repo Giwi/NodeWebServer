@@ -1,0 +1,10 @@
+{
+    "node": true,
+    "passfail": false,
+    "shebang": false,
+    "globals": {
+        "require": false,
+        "HttpServer": false,
+        "createServlet": false
+    }
+}
